@@ -5,19 +5,6 @@ The project demonstrates basic game logic, win/draw detection, and a restart fun
 
 ---
 
-## 🖼️ Screenshots
-
-### Game Start
-![Start Screen](images/start.png)
-
-### Example Win
-![Win Example](images/win.png)
-
-### Draw Situation
-![Draw Example](images/draw.png)
-
----
-
 ## 🚀 Features
 - Classic **Tic-Tac-Toe** logic (2 players: X and O).
 - Win detection (rows, columns, diagonals).
@@ -25,6 +12,13 @@ The project demonstrates basic game logic, win/draw detection, and a restart fun
 - Restart button to start a new game.
 - Modern **dark mode** design with colorful XO icons.
 - Informative status labels: turn, current player, winner, and game state.
+
+---
+
+## 🖼️ Screenshots
+<img width="1216" height="864" alt="Screenshot 2025-08-20 234531" src="https://github.com/user-attachments/assets/bd7054ca-7cf5-48b2-ac21-7bb799604354" />
+<img width="1212" height="857" alt="Screenshot 2025-08-20 234549" src="https://github.com/user-attachments/assets/d4e24d0f-d1fa-42a6-9f99-518c5c081b7b" />
+<img width="1204" height="859" alt="Screenshot 2025-08-20 234752" src="https://github.com/user-attachments/assets/3793d1bf-8a6f-4439-8a67-9ad858ee8500" />
 
 ---
 
